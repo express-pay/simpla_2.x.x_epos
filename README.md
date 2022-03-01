@@ -1,7 +1,9 @@
-﻿# Расширение Simpla 2.x.x сервиса «Экспресс Платежи: E-POS»
+# Расширение Simpla 2.x.x сервиса «Экспресс Платежи: E-POS»
 Расширение CMS Simpla для интеграции с сервисом «Экспресс Платежи». Расширение позволяет выставить счет в системе E-POS, получить и обработать уведомление о платеже в системе E-POS.
 
 <a href="https://express-pay.by/cms-extensions/simpla">Инструкция для установки и настройки</a>
+
+<a href="https://downgit.github.io/#/home?url=https://github.com/express-pay/simpla_2.x.x_epos/tree/main/ExpressPayEpos">Скачать ZIP</a>
 
 ## Минимальные требования для установки плагина:
 * Simpla 2.3.1 и выше;
